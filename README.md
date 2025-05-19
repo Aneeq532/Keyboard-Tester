@@ -1,1 +1,1 @@
-**Run this files to check your keyboard keys**
+**Run this files to test your keyboard keys**
